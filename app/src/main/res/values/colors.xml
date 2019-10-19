@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="SimpleCalculator">#D81B60</color>
+    <color name="EditTextHintColor">#FF979797</color>
+    <color name="EditTextColor">#D81B60</color>
+    <color name="ButtonColor">#00574B</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="SecondActivity">#00574B</color>
+</resources>

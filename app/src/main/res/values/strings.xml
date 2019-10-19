@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DavalebaG</string>
+    <string name="simple_calculator">Simple Calculator</string>
+    <string name="Number1">რიცხვი1</string>
+    <string name="Number2">რიცხვი2</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+</resources>
